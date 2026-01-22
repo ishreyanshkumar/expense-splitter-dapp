@@ -47,7 +47,7 @@ const handleGetMyName = async () => {
 ```
 
 #### The above code results in
-<img src="https://github.com/iShreyanshKumar/BlockBase-Project/blob/main/Screenshot%202025-04-20%20231429.png" alt="">
+<img src="docs/get-my-name-demo.png" alt="Get My Name Feature Demo">
 ---
 
 ### 2. Get Total Number of Registered Users
@@ -61,5 +61,5 @@ Displays the total number of users who have registered on the platform.
 <p>Total Registered Users: {people.length}</p>
 ```
 #### The above code results in
-<img src="https://github.com/iShreyanshKumar/BlockBase-Project/blob/main/Screenshot%202025-04-20%20232127.png" alt="">
+<img src="docs/registered-users-demo.png" alt="Registered Users Display Demo">
 ---
